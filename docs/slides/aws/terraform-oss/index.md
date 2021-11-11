@@ -628,14 +628,6 @@ This list goes from highest precedence (1) to lowest (5).
    for entry
 ```
 ---
-name: lab-exercise-0
-# 👩‍💻 Getting Started with Instruqt
-<br><br>
-[Instruqt](https://instruqt.com) is the HashiCorp training platform. Visit the link below for a short tutorial, or if you're already familiar with Instruqt you can skip to the next slide.
-
-[https://instruqt.com/instruqt/tracks/getting-started-with-instruqt](https://instruqt.com/instruqt/tracks/getting-started-with-instruqt)
-
----
 name: lab-exercise-1
 # 👩‍💻 Lab Exercise: Terraform Basics
 <br><br>
