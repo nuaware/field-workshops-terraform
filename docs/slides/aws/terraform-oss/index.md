@@ -1097,6 +1097,7 @@ class: compact
 |                         | aws_instance | aws_instance |    ???    |
 |                         |                         | aws_instance |    ???    |
 |                         | aws_instance |                         |    ???    |
+| aws_instance |                            | aws_instance |    ???    |
 
 What happens in each scenario? Discuss.
 
@@ -1112,6 +1113,7 @@ class: compact
 |                         | aws_instance | aws_instance | delete       |
 |                         |                         | aws_instance | no-op        |
 |                         | aws_instance |                         | update state |
+| aws_instance |                            | aws_instance |    (re)create*    |
 
 What happens in each scenario? Discuss.
 
