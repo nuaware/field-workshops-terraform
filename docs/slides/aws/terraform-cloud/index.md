@@ -977,20 +977,7 @@ name: TFE-Chapter-5
 class: title
 
 # Chapter 5
-## Bonus Lab & Extra Resources
-
----
-name: bonus-lab
-
-# Bonus Lab
-## 🦄 The Gauntlet 🏆
-
-If you have completed all the workshop content and would like to try the bonus lab, your instructor can provide you with an invite.
-
-???
-This bonus lab can be used with any of the three Terraform Cloud workshops. Create an invite if you'd like to share it with your students.
-
-https://instruqt.com/hashicorp/tracks/terraform-cloud-bonus-lab
+## Extra Resources
 
 ---
 name: additional-resources-tfe
