@@ -551,17 +551,6 @@ https://www.terraform.io/docs/backends/types/remote.html
 The reason for the stern warning is because users have been copying this .terraformrc file to github during training workshops. Don't do it. Edit the file once, put your token in, and leave it alone. dot-files are hidden for a reason.
 
 ---
-name: lab-exercise-0
-# 👩‍💻 Getting Started with Instruqt
-<br><br>
-[Instruqt](https://instruqt.com) is the HashiCorp training platform. Visit the link below for a short tutorial, or if you're already familiar with Instruqt you can skip to the next slide.
-
-[https://instruqt.com/instruqt/tracks/getting-started-with-instruqt](https://instruqt.com/instruqt/tracks/getting-started-with-instruqt)
-
-???
-**That brings us to the first lab exercise. If you've worked with Instruqt before you can skip this lab. Or if it's your first time do this 10 minute track to get familiar with the lab environment.**
-
----
 name: lab-exercise-1
 # 👩‍💻 Lab Exercise: Configure Remote State
 <br><br>
