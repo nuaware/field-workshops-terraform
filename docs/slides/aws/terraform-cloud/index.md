@@ -43,10 +43,10 @@ layout: true
 ---
 name: Introductions
 # Introductions
-- Your Name
-- Job Title
-- Automation Experience
-- Favorite Text Editor
+- Leander Janssen
+- Engineer / Instructor
+- +20 years of experience in IT
+- Favorite Text Editor: vscode & vim
 
 ???
 **Let's start with introductions. Give us your name, job title, any automation experience, and finally your favorite text editor. There are no wrong answers here. Except for Notepad. Notepad++ is ok though.**
