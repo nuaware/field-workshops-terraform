@@ -95,7 +95,6 @@ class: col-2
 🏗️ API Driven Workflows<br>
 <hr>
 5. Extra Resources<br>
-⚗️ Bonus Lab<br>
 🌐 Useful Links
 </div>
 
